@@ -1,64 +1,21 @@
+<div align="center">
+  
+  <img width="300" height="" alt="New Project (11)" src="https://files.catbox.moe/7bbn9x.png" align="center" hspace="25"/>
+
+<br>
+<a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=atabook&color=000000&style=flat" alt="atabook"></a> <a href="https://6odheaded.straw.page/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=strawpage&color=000000&style=flat" alt="strawpage"></a> <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=000000&style=flat" alt="tumblr"></a>
+
+
+
+
+almost always offtab 
+
+just w2i ill respond 
+
+
+
 
 
 <div align="center">
 
   
-<img src="https://files.catbox.moe/wshdam.png" width="500">
-
-<div align="center">
-  
-<a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=atabook&color=ff0001&style=flat" alt="atabook"></a>
-<a href="https://6odheaded.straw.page/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=strawpage&color=ff0001&style=flat" alt="strawpage"></a> <a href="https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch"> <img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=roblox&color=ff0001&style=flat" alt="roblox"></a>  <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=ff0001&style=flat" alt="tumblr"></a>
-
-
-
-
-$\textcolor{#ff0001}{\textsf{yo}}$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div align="center">
-  
-  <img src="https://imgur.com/v2zoynn.png" width="600"/>
-
-  <div/>
-
-
-<br><br>
-
-$\textcolor{#ff0001}{\textsf{sup}}$
-
-<br> <br>
-••●━━━━━━●••
-
-<div align="center"> <a href="https://toyhou.se/6odhead"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=toyhouse&color=ff0001&style=flat" alt="toyhouse"></a> 
-ㅤㅤ┊ㅤㅤ<a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=atabook&label=&message=atabook&color=ff0001&style=flat" alt="atabook"></a>
-ㅤㅤ┊ㅤ<a href="https://www.roblox.com/users/4815958351/profile?friendshipSourceType=PlayerSearch"><img src="https://img.shields.io/static/v1?logo=atabook&label=&message=roblox&color=ff0001&style=flat" alt="roblox"></a> 
-ㅤㅤ┊ㅤ<a href="https://www.tumblr.com/66odhead"><img src="https://img.shields.io/static/v1?logo=atabook&label=&message=tumblr&color=ff0001&style=flat" alt="tumblr"></a> -->
-
-
-<!-- https://imgur.com/v2zoynn.png future use -->
