@@ -11,7 +11,7 @@ $\textcolor{#ffffff}{\textsf{ almost always offtab }}$  　-　 $\textcolor{#fff
 
 <br>
 
-  ‎ ‎    ‎ ‎ ‎  <a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=atabook&color=000000&style=flat" alt="atabook"></a>  ‎ ‎   <a href="https://6odheaded.straw.page/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=strawpage&color=000000&style=flat" alt="strawpage"></a>   ‎ ‎  <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=000000&style=flat" alt="tumblr"></a>  
+  ‎ ‎    ‎ ‎ ‎  <a href="https://6odhead.atabook.org/"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=atabook&color=000000&style=flat" alt="atabook"></a>  ‎ ‎   <a href="https://stridrrr.straw.page"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=strawpage&color=000000&style=flat" alt="strawpage"></a>   ‎ ‎  <a href="https://www.tumblr.com/6odheaded"><img src="https://img.shields.io/static/v1?logo=toyhouse&label=&message=tumblr&color=000000&style=flat" alt="tumblr"></a>  
 
 <br> 
 <details>
