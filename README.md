@@ -30,15 +30,3 @@ $\textcolor{#ffffff}{\textsf{ almost always offtab }}$  　-　 $\textcolor{#fff
 </details> 
 
 
-<details>
-  
-  <summary>⮿</summary>
-  
-dni proship/darkship and project moon fans
-
-i block freely
-
-</details> 
-  
- 
-
