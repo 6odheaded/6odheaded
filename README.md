@@ -27,6 +27,8 @@ $\textcolor{#ffffff}{\textsf{ almost always offtab }}$  　-　 $\textcolor{#fff
 
 <img src="https://files.catbox.moe/dpszex.png">
 
+<img src="https://files.catbox.moe/cwnist.png">
+
 </details> 
 
 
